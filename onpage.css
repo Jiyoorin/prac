@@ -1,0 +1,21 @@
+* {
+    font-family: 'Gaegu', cursive;
+}
+.mytitle {
+    color: white;
+    width: 300px;
+    height: 200px;
+    background-image: url('https://post-phinf.pstatic.net/MjAxNzEwMTNfMjQ0/MDAxNTA3ODgyMzkyNDIy.D2iVWNG8A1Z6MsJWrk790Tsnpu3mxarTMyGwAQQiYxAg.Ngz91DCu0blDwaAkjik1WxQRh7xxArM-gjP0eov2yqsg.JPEG/20170113093945948875.jpg?type=w1200');
+    background-position: center;
+    background-size: cover;
+
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 40px;
+
+}
+
+.wrap {
+    width: 300px;
+    margin: auto;
+}
